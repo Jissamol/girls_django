@@ -27,7 +27,7 @@ DEBUG = True
 # 'localhost', '127.0.0.1', '.pythonanywhere.com'
 ALLOWED_HOSTS = ['*']
 CSRF_TRUSTED_ORIGINS = [
-    # 'https://papaerchase-esgbcmhwdvfghbc2.canadacentral-01.azurewebsites.net'
+    'https://djangogirl-g2e5hmg7cwh2bues.centralus-01.azurewebsites.net'
 ]
 # Application definition
 
